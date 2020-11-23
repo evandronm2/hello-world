@@ -7,4 +7,4 @@ Cheers.
 # me again
 
 just checking if I understood how to create
-new branches and how to merge them
+new branches and how to merge them ... thanks!
