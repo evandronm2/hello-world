@@ -1,2 +1,5 @@
 # hello-world
-First exercise on Github
+
+Hi there, Evandro here!
+I am interested in coding and Python.
+Cheers.
